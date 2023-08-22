@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+.main{
+		display:flex;
+	   height: 50px;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	background:violet
+	
+}
+.red{
+	width:50px;
+	background:red;
+	
+}
+.green{
+	width:50px;
+	background:green;
+}
+.blue{
+	width:50px;
+	background:blue;
+}
